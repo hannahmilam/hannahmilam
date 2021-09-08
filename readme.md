@@ -4,7 +4,7 @@ My name is Hannah. I am currently attending Boise Code Works to get my full stac
 
 ## About me
 
-<li>In my free time whent he weather permits, I love to...<ul>
+In my free time whent he weather permits, I love to...<ul>
 <li>Paddleboard down the Payette River</li>
 <li>Hike in the mountains</li>
   <li>Fish</li>
