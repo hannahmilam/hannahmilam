@@ -1,20 +1,5 @@
-hannahmilam
-============
+## Hi, my name is Hannah Milam
 
-### Get Started
+I am currently attending Boise Code Works to get my full stack software developer certificate. I have a passion for coding! My background previously was in the dental industry which I am still very passionate about. 
 
-```terminal
-> npm i
-> npm run sass
-> npm run serve
-```
-
-### AuthConfig
-
-Fill in your AuthConfig with keys from [Auth0](https://auth0.com/)
-
-```javascript
-export const domain = '' 
-export const clientId = '' 
-export const audience = '' 
-```
+In my free time whent he weather permits I love to paddleboard down the Payette River, hike in the mountains, fish, and spend time with my family.
