@@ -1,9 +1,9 @@
 ## Hello everyone! 👋
 
 My name is Hannah. 😊 
-I am currently attending Boise Code Works to get my full stack software developer certificate. 
-I have a passion for coding! 
-I am a dedicated and passionate student working hard towards my future as a software developer.
+I am a Data Engineer at Allata as well as a full stack software developer! Experienced in python, javascript, typescript, c#, sql, and node.
+I work primarily with Microsoft services for ingesting and transforming data in Azure Data Factory and Azure Data Bricks, and then powerBI for visualizations.
+I am a dedicated and passionate life long student working hard towards my future career goals.
 
 ## About me
 
